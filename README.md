@@ -12,6 +12,8 @@ The process:
 - Utilized a weather API to create a dataset that was then parsed using Python ML libraries (`pandas` and `numpy`)
 - Implemented a ML-based Random Forest Regressor (via `scikit-learn`) to predict the weather in future years and how that might affect carbon emissions due to heating and cooling in buildings
 
+This program was created within a 14-hour timeline as part of the HackTheMIST 2022 hackathon.
+
 ----
 
 ### 💻 Tech Stack: 
