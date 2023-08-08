@@ -1,6 +1,6 @@
 # 🌎 thermaSave 
 
-Check out the full project Devpost and video link here! ➡️ https://devpost.com/software/will
+[Check out the full project Devpost and video link here!](https://devpost.com/software/will)
 
 We wanted a way to help fellow Canadians decrease their carbon emission consumption and we thought we could create a model to do exactly that and use ML to optimize it!
 
